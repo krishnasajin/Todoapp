@@ -1,0 +1,14 @@
+.title-style {
+  color: brown;
+  text-decoration: underline;
+}
+.add-button {
+  color: white;
+  background: green;
+  height: 30px;
+  border-radius: 5px;
+  margin-left: 15px;
+}
+.input-button {
+  height: 30px;
+}
